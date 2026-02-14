@@ -39,12 +39,12 @@ Confirms user is back on login screen
 
 Tech Stack Used
 
-Java – Core programming language
-Selenium WebDriver – UI automation
-TestNG – Test execution & assertions
-Extent Reports – HTML reporting
-WebDriverManager – Driver handling
-Gradle – Build & dependency management
+Java - Core programming language
+Selenium WebDriver - UI automation
+TestNG - Test execution & assertions
+Extent Reports - HTML reporting
+WebDriverManager - Driver handling
+Gradle - Build & dependency management
 Reporting
 
 Execution report is generated here:
