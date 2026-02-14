@@ -3,7 +3,7 @@ About This Project
 
 This project is a Selenium automation suite built to test the end‑to‑end Policy Issuance journey on the Policy Search portal.
 
-The idea behind building this was simple — instead of manually testing the same login, OTP, quote and policy flows again and again, we automate the entire journey and validate the important checkpoints along the way.
+The idea behind building this was simple - instead of manually testing the same login, OTP, quote and policy flows again and again, we automate the entire journey and validate the important checkpoints along the way.
 
 It covers both negative and positive scenarios, including real error validations that occur during quote generation.
 
